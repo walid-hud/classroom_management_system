@@ -9,8 +9,7 @@
     "esModuleInterop": true,         
     "forceConsistentCasingInFileNames": true,
     "skipLibCheck": true,
-    // "noEmit": true // Remove or comment out this line to allow emitting files
   },
-  "include": ["src/**/*"],         
+  "include": ["src/index.ts"],         
   "exclude": ["node_modules"]        
 }
