@@ -1,4 +1,4 @@
-# CLassroom manager
+# Classroom manager
 SAS project at [ENAA](https://enaa.ma)  
 
 ### how to run
